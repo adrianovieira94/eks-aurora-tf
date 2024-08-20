@@ -1,0 +1,22 @@
+0000000000000000000000000000000000000000 1a4863b7665c060404d3b90208745f07f98b9f78 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721075365 -0300	commit (initial): Initial commit
+1a4863b7665c060404d3b90208745f07f98b9f78 1a4863b7665c060404d3b90208745f07f98b9f78 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721163766 -0300	checkout: moving from main to staging
+1a4863b7665c060404d3b90208745f07f98b9f78 cbdc0e63926d788e2b3e8d387bc224eaf55df20f 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721163802 -0300	commit: fix: terraform notificacoes
+cbdc0e63926d788e2b3e8d387bc224eaf55df20f 6a2809cea22b7dbf6a6c823790494f2dccc55062 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721163965 -0300	commit: fix: terraform notificacoes
+6a2809cea22b7dbf6a6c823790494f2dccc55062 696d7b222e703f32c0ee9a0b2ef17d606f418f21 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721229053 -0300	commit: fix:tags
+696d7b222e703f32c0ee9a0b2ef17d606f418f21 064dedffab44e4543af2942b5fdc58e5152b14ea 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721305979 -0300	pull (start): checkout 064dedffab44e4543af2942b5fdc58e5152b14ea
+064dedffab44e4543af2942b5fdc58e5152b14ea f0815b9f23d4f1da495f80fac026b73f37d76707 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721305979 -0300	pull (pick): fix:tags
+f0815b9f23d4f1da495f80fac026b73f37d76707 f0815b9f23d4f1da495f80fac026b73f37d76707 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721305979 -0300	pull (finish): returning to refs/heads/staging
+f0815b9f23d4f1da495f80fac026b73f37d76707 96892ec415a8140d41aeb4fcc4929fd6de5502a9 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721920701 -0300	commit: feat: pasta envs de hml e prd
+96892ec415a8140d41aeb4fcc4929fd6de5502a9 39052f49fa3ab5bcc6a7aa29201edf136c0f425a 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721920711 -0300	pull (start): checkout 39052f49fa3ab5bcc6a7aa29201edf136c0f425a
+39052f49fa3ab5bcc6a7aa29201edf136c0f425a aed34f507f5fd597cd8d7d8eae7d37ef06c88f46 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721920711 -0300	pull (pick): feat: pasta envs de hml e prd
+aed34f507f5fd597cd8d7d8eae7d37ef06c88f46 aed34f507f5fd597cd8d7d8eae7d37ef06c88f46 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721920711 -0300	pull (finish): returning to refs/heads/staging
+aed34f507f5fd597cd8d7d8eae7d37ef06c88f46 ab0501faebd6689c2da5bf9a7d7bf934f984c18a 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721920819 -0300	commit: feat: pasta envs de hml e prd
+ab0501faebd6689c2da5bf9a7d7bf934f984c18a 8dd993e50f1c941b6c8bf2c09c83f2f32b605e74 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721921459 -0300	commit: fix:remocao ip vpc, add var de ambiente
+8dd993e50f1c941b6c8bf2c09c83f2f32b605e74 7bda05293323d3d94ac7625656e62d22b2db15ae 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721921479 -0300	pull (start): checkout 7bda05293323d3d94ac7625656e62d22b2db15ae
+7bda05293323d3d94ac7625656e62d22b2db15ae 9ef5dcf66b51b10aec87d4d0eff7de80b895eadd 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721921479 -0300	pull (pick): fix:remocao ip vpc, add var de ambiente
+9ef5dcf66b51b10aec87d4d0eff7de80b895eadd 9ef5dcf66b51b10aec87d4d0eff7de80b895eadd 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721921479 -0300	pull (finish): returning to refs/heads/staging
+9ef5dcf66b51b10aec87d4d0eff7de80b895eadd a8cc92f9133423143de06b88f54c56c3467a2e5c 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721921687 -0300	commit: fix:remocao ip vpc, add var de ambiente
+a8cc92f9133423143de06b88f54c56c3467a2e5c b2565a2b4b070e0c3aff82b69ede7d7c642a277f 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721929552 -0300	commit: fix:3 nodes
+b2565a2b4b070e0c3aff82b69ede7d7c642a277f 1a4863b7665c060404d3b90208745f07f98b9f78 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721929992 -0300	checkout: moving from staging to main
+1a4863b7665c060404d3b90208745f07f98b9f78 b2565a2b4b070e0c3aff82b69ede7d7c642a277f 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1721930000 -0300	merge staging: Fast-forward
+b2565a2b4b070e0c3aff82b69ede7d7c642a277f b2565a2b4b070e0c3aff82b69ede7d7c642a277f 001 - Adriano Vieira de Morais <adriano.morais@credisis.com.br> 1723155541 -0300	checkout: moving from main to staging
